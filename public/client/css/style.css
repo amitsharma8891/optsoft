@@ -1,0 +1,25 @@
+/* 
+    Document   : style
+    Created on : Sep 10, 2014, 2:34:59 PM
+    Author     : Archana
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.heading_client{
+    background: none repeat scroll 0 0 white;
+    border: 1px solid grey;
+    box-shadow: 1px 1px 2px -1px;
+    margin-left: 21px;
+    text-align: center;
+    text-decoration: unset;
+    width: 167px;
+}
+.table_css{
+    background: none repeat scroll 0 0 white;
+    box-shadow: 0 2px 2px 0 grey;
+    width: 51em;
+}

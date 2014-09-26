@@ -1,0 +1,36 @@
+/* 
+    Document   : style
+    Created on : Sep 9, 2014, 6:32:46 PM
+    Author     : Archana
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+td{
+    text-align: center;
+}
+body{
+/*  background: lightgrey;*/
+}
+.main_container{
+    background: none repeat scroll 0 0 lightyellow;
+    border: 1px solid brown;
+    float: left;
+    margin: 2px 3px 4px 375px;
+    padding: 43px;
+    text-align: center;
+    width: 406px;
+}
+.heading{
+    color: brown;
+    text-align: center;
+}
+
+label{
+    color:red;
+}
+
+
